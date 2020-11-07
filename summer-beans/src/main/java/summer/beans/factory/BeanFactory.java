@@ -1,4 +1,4 @@
-package org.summer.beans.factory;
+package summer.beans.factory;
 
 import org.summer.core.ResolvableType;
 import org.summer.exception.BeansException;

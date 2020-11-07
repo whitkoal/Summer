@@ -1,4 +1,4 @@
-package org.summer.exception;
+package summer.exception;
 
 public class NoSuchBeanDefinitionException extends Exception {
 }

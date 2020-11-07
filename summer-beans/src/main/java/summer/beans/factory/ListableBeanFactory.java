@@ -1,4 +1,4 @@
-package org.summer.beans.factory;
+package summer.beans.factory;
 
 public interface ListableBeanFactory extends BeanFactory {
 }
