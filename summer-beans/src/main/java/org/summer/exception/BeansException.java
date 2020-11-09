@@ -1,4 +1,4 @@
-package summer.exception;
+package org.summer.exception;
 
 public class BeansException extends Exception {
 }

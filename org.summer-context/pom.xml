@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.summer</groupId>
-    <artifactId>org.summer-context</artifactId>
+    <groupId>org.org.summer</groupId>
+    <artifactId>org.org.summer-context</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
